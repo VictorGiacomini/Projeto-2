@@ -1,0 +1,13 @@
+#form > h1:hover{
+    color: purple;
+}
+
+.botao:hover{
+    background-color: purple;
+    padding: 3%;
+    font-weight:900;
+}
+
+.hvr:hover{
+    background-color: #340946f7;
+    }
